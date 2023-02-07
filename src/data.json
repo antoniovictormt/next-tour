@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "slug": "hello-world",
+      "title": "Hello World"
+    },
+    {
+      "slug": "hello-underworld",
+      "title": "Hello Underworld"
+    },
+    {
+      "slug": "hello-m",
+      "title": "Hello Underworld"
+    },
+    {
+      "slug": "lista",
+      "title": "Hello Underworld"
+    }
+  ]
+}
